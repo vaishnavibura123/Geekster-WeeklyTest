@@ -1,4 +1,4 @@
-## Student Management (Mapping)
+## Student Management
 ### Frameworks and Language used:
 * Spring
 * Spring boot
