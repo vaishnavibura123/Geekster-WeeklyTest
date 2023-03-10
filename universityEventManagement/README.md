@@ -14,4 +14,4 @@
 * Database
   * I used H2 Database In this Application And Created data.sql file to upload data in table at the start of Application.
 ### Project Summery
-University Event Management application is RESTAPI Application int this you can fetch the data of all Students and find Event By Date , created two seperate models one is of Students and  one is Event. You can go through the Code to do the CRUD Commands to add delete update aur get the data of Students and Event. You can also use H2-Database to see the table we have created in the database and to get the data of table.
+University Event Management application is RESTAPI Application int this you can fetch the data of all Students and find Event By Date ,I have created two seperate models one is of Student and Event. You can go through the Code to do the CRUD Commands to add delete update, get the data of Students and Event.We can also use H2-Database to see the table we have created in the database and to get the data of table.
